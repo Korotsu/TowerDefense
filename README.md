@@ -41,4 +41,4 @@
 
 ----
 ## Status
-**Devellopment paused.**
+**Devellopement paused.**
