@@ -21,9 +21,7 @@
 
 2.extract all your files on a folder.
 
-3.Build the game then make him run with the command :
-
-    make && ./tower
+3.launch the TowerDefense.exe file located in the root folder of the program or launch and build/start the visual studio 2019 solution.
 
 4.Rock ! <3
 
@@ -43,4 +41,4 @@
 
 ----
 ## Status
-**Under development.**
+**Devellopment paused.**
