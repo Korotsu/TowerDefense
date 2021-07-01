@@ -247,6 +247,10 @@ Mouse::~Mouse()
 
 int map::get(int i, int j)
 {
+	if (j >= 16)
+	{
+		j = 15;
+	}
 	return (nb_of_lines - 1) * j + i;
 }
 
